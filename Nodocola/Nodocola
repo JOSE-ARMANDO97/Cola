@@ -1,0 +1,18 @@
+package Nodocola;
+
+
+public class Nodocola{
+   
+    public String elemento;
+    public Nodocola siguiente;
+  
+   
+ public Nodocola(String elemento) {
+     
+      this.elemento=elemento;
+      siguiente=null;
+    
+    }
+
+    
+}
